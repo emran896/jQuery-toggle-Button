@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+button{
+    width: 300px;
+    padding: 10px;
+    margin: 100px auto 0px;
+    display: block;
+    background-color: blue;
+    font-size: 30px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+p{
+    width: 300px;
+    margin: 0px auto 0px;
+    background-color: purple;
+    color: #fff;
+    padding: 10px;
+}
